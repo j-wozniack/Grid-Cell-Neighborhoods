@@ -21,9 +21,9 @@ This python project utilizes the Manhattan distance function to find the neighbo
         return the coordinates for both the positive values.
 
 # Assumptions
-Rows must be > 0
-Columns must be > 0
-Distance thresh hold or n must be > 0
+1. Rows must be > 0
+2. Columns must be > 0
+3. Distance thresh hold or n must be > 0
 
 # Build Instructions
 1. Pull down the code from main
